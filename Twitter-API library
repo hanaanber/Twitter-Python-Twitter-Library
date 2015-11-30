@@ -1,0 +1,8 @@
+After Installing Python 2.7.8
+Install the Twitter-master, the Python Twitter library from:
+https://pypi.python.org/pypi/twitter#downloads
+Extract the folder, and type the command line:
+   > cd ./Downloads/twitter-1.17.1
+   > python setup.py install
+
+
