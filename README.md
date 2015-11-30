@@ -1,2 +1,2 @@
-# Twitter-master-Python-Twitter-Library
-Install Twitter-master, Python Twitter Library on Mac OSX 10.7
+# Twitter-Python-Twitter-Library
+Install Twitter-library, Python Twitter Library on Mac OSX 10.7
